@@ -1,0 +1,4 @@
+Name: "C:\Users\User\Desktop\Python\05.QR Generator\Version 2.0\venv\Scripts\python.exe" "c:/Users/User/Desktop/Python/05.QR Generator/Version 2.0/main.py"
+Address: 
+Age: 
+Grade: 
